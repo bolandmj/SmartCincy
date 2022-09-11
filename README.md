@@ -3,7 +3,7 @@
 
 ## Introduction:
 
-* making a app where people can post recipe's and rate them from 1-5, also making a discussion board to where they can add their input and say what their recommended changes was or how they prepared it diffrently.
+* making a web based application developed in Java to store the details about Cincinnati. This web based application will help users understand more about the city such as transport, airports, shopping details, news, and other items. This application will also help tourists find unique loactions and help them naviagte the city.
 
 
 
