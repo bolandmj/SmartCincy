@@ -61,11 +61,9 @@ https://projects.invisionapp.com/prototype/cl3q4wob7008cgh014ycqexje/play
 
 
 ##   ScrumRole:
-* Max Boland: Scrum Master
-* Raeshawn bart: mid devoloper
-* Ian Hegarty: UI Developer
-* Ethan Finch: Developer
-* Jacob Farrish : UI Developer
+* Max Boland: Scrum Master/Product Owner/Github Admin
+* Brian Kenkel : UI Developer
+* Jakob Brown: Business Logic and Persistance
 
 
 ##  Weekly Meeting
