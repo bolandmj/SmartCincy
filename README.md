@@ -12,30 +12,34 @@ https://projects.invisionapp.com/prototype/cl3q4wob7008cgh014ycqexje/play
 
 
 ## Functional Requirments:
-* Scenerio 1: User is intreasted in posting a recipe
+* Scenerio 1: User is intreasted in finding a hotel in Cincinnati
 
-*Dependecies: Info is made available and acessable 
+*User opens application
 
-*Gives the option to allow user to enter their recipe then click post 
+* User selects the Hotels button
 
-*The post is then made public for everyone to see 
+* Application Provides a list of hotels
+
+*User selects the hotel that they like most
 
 
-* Scenario 2: User want to rate the receipe that is posted
+* Scenario 2: User wants to find a popular tourist location in Cincinnati
 
-*Dependecies: Info is made available and acessable 
+*User opens application
 
-*User clicks between 1-5 stars to rate the recipe 
+* User selects the tourist hotspots button
 
-*Then the rating is posted and is saved 
+*Application provides a list of different tourist attractions with info
 
-* Scenario 3: User want to be able to put comments on the recipe post regarding changes or edit they did 
+*User selects which is most interesting to them
 
-*Dependecies: Info is made available and acessable 
+* Scenario 3: User wants to see a map of Cincinnati
 
-*User enters what they want to comment then they click post 
+*User opens application 
 
-*Then the comment is posted and made public 
+*User selects the map of Cincinnati button
+
+* Application shows a map of Cincinnati
 
 
 
