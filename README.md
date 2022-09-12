@@ -53,7 +53,8 @@ https://github.com/bolandmj/TourGuide/blob/main/Storyboard.pptx
 
 ## Class Diagram:
 
-![ClassDiagram drawio](https://user-images.githubusercontent.com/81503684/170836416-a46f8350-6e8e-48cc-946e-973cd03a21c5.png)
+
+![ClassDiagram drawio](https://user-images.githubusercontent.com/81503684/189559974-77a0e4f7-661e-4c33-8e6f-10eca06e7796.png)
 
 
 ## Class Diagram Discription:
