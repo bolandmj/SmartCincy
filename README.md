@@ -14,30 +14,30 @@ https://projects.invisionapp.com/prototype/cl3q4wob7008cgh014ycqexje/play
 ## Functional Requirments:
 * Scenerio 1: User is intreasted in finding a hotel in Cincinnati
 
-*User opens application
+* User opens application
 
 * User selects the Hotels button
 
 * Application Provides a list of hotels
 
-*User selects the hotel that they like most
+* User selects the hotel that they like most
 
 
 * Scenario 2: User wants to find a popular tourist location in Cincinnati
 
-*User opens application
+* User opens application
 
 * User selects the tourist hotspots button
 
-*Application provides a list of different tourist attractions with info
+* Application provides a list of different tourist attractions with info
 
-*User selects which is most interesting to them
+* User selects which is most interesting to them
 
 * Scenario 3: User wants to see a map of Cincinnati
 
-*User opens application 
+* User opens application 
 
-*User selects the map of Cincinnati button
+* User selects the map of Cincinnati button
 
 * Application shows a map of Cincinnati
 
