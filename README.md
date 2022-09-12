@@ -8,7 +8,7 @@
 
 
 ## StoryBoard:
-https://projects.invisionapp.com/prototype/cl3q4wob7008cgh014ycqexje/play
+https://github.com/bolandmj/TourGuide/blob/main/Storyboard.pptx
 
 
 ## Functional Requirments:
