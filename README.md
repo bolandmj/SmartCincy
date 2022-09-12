@@ -71,4 +71,4 @@ https://projects.invisionapp.com/prototype/cl3q4wob7008cgh014ycqexje/play
 
 
 ##  Weekly Meeting
-We will be meeting every Tuesday at 4pm via microsoft teams
+We will be meeting every Tuesday at 4:30pm via microsoft teams
