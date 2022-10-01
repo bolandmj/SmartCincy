@@ -8,5 +8,6 @@ public class TourGuide {
         this.KeyLocations = keyLocations;
     }
 
+    public String getKeyLocations() { return KeyLocations; }
 
 }
