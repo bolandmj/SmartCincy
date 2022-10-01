@@ -11,4 +11,7 @@ public class HelloController {
 		return "Greetings from Spring Boot!";
 	}
 
+	@DeleteMapping("/")
+	public ResponseEntity deleteMap(@PathVariable("/"))
+
 }
