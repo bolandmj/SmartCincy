@@ -17,4 +17,5 @@ public class TourGuideDAO implements ITourGuideDAO {
     public List<TourGuide> fetchByGlobalSearch(String term) {
         return null;
     }
+
 }
